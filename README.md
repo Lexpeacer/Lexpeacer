@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lexpeacer
+- 👀 I’m interested in Tech, Software Development, Front-end WEB, Economy, Physics
+- 🌱 I’m currently learning JS, REACT, Responsive web design, Python, Java, SQL.
+- 💞️ I’m looking to collaborate on Projects, find answers and solutions to dev problems or questions.
